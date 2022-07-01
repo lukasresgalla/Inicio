@@ -1,0 +1,13 @@
+#include <iostream> 
+
+using namespace std;
+
+int ()
+{
+  int N1, N2, Soma;
+  cout << "Digite 2 numeros para somar" << endl;
+  cin >> N2 >> N2;
+  Soma = N1 + N2;
+  cout << "Soma =" << Soma << endl;
+  return 0;
+ }
